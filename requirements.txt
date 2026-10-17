@@ -1,0 +1,6 @@
+realtimestt[faster-whisper]
+edge-tts
+pygame
+tts-with-rvc
+torch
+torchaudio
